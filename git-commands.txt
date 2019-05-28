@@ -1,0 +1,37 @@
+t-repos
+ 1984  cd git-repos/
+ 1985  git clone  https://github.com/NetraInamdar/HackerRank_algorithms_problems.git
+ 1986  cd HackerRank_algorithms_problems/
+ 1987  vim solution.py
+ 1988  mkdir max-subset-sum
+ 1989* mv solu max-subset-sum/
+ 1990  ll
+ 1991  cd max-subset-sum/
+ 1992  ls
+ 1993  cd ..
+ 1994  git add .
+ 1996  git commit -m "max-subset-sum checkin"
+ 1997  git push origin master
+ 1998  history
+
+
+
+
+0. Create a new repository- repo_name
+1. cd git-repos/
+2. git clone https://github.com/NetraInamdar/repo_name.git
+(This will create a directory with name: repo_name)
+3. cd repo_name
+4. vim filename.py (The file you want to add to repo)
+(or paste all the files you want to add, here)
+(or mkdir folder1, folder2.. etc if you want to add multiple folders)
+
+5. git add .
+6. git commit -m "project_title_or_files checkin"
+7. git push origin master
+
+password- githubacc1
+
+
+AA008Z74Q5
+
